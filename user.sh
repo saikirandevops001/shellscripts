@@ -6,4 +6,4 @@ ps
 date 
 echo "this is saikiran"
 pwd 
-history
+
