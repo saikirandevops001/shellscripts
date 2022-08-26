@@ -5,3 +5,5 @@ echo "Running processes List"
 ps
 date 
 echo "this is saikiran"
+pwd 
+history
